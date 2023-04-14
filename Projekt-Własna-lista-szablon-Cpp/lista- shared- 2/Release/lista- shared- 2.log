@@ -1,0 +1,26 @@
+﻿  l.cpp
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(329,21): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(323): message : podczas kompilowania funkcji składowej „void lista<int>::push(T)” klasy klasa szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(851): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void lista<int>::push(T)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(837): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „lista<int>” klasy klasa szablon
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(45,22): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(37): message : podczas kompilowania funkcji składowej „lista<ocena>::lista(const lista<ocena> &)” klasy klasa szablon
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(705): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „lista<ocena>::lista(const lista<ocena> &)” funkcji szablon
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(59,23): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(91,22): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(81): message : podczas kompilowania funkcji składowej „lista<std::string> &lista<std::string>::operator =(const lista<std::string> &)” klasy klasa szablon
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(939): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „lista<std::string> &lista<std::string>::operator =(const lista<std::string> &)” funkcji szablon
+C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\l.cpp(106,23): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  lista- shared- 2.vcxproj -> C:\Users\aprzy\OneDrive\Pulpit\lista- shared- 2\Release\lista- shared- 2.exe
