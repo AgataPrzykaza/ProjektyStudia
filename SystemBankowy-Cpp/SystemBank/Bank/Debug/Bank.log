@@ -1,0 +1,14 @@
+﻿  Bank.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  klasy.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,2): error C2653: "filesystem": nie jest nazwą klasa lub nazwą przestrzeni nazw
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,14): error C2065: "path": niezadeklarowany identyfikator
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,19): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „pth”
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,19): error C2065: "pth": niezadeklarowany identyfikator
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,30): error C3083: "filesystem" : symbol po lewej stronie "::" musi być typem
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,42): error C2039: „current_path”: nie jest składową elementu „std”
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\vector(24): message : zobacz deklarację „std”
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(19,54): error C3861: "current_path": identyfikatora nie odnaleziono
+C:\Users\aprzy\OneDrive\Pulpit\PK4 projekt\SystemBank\Bank\klasy.cpp(20,10): error C2065: "pth": niezadeklarowany identyfikator
+  Generowanie kodu...
